@@ -1,3 +1,5 @@
+''' This is a Snake game built using python language'''
+''' This program is implemented by Natasha Sheelvant'''
 import curses
 from curses import KEY_RIGHT, KEY_LEFT,KEY_UP,KEY_DOWN
 from random import randint
